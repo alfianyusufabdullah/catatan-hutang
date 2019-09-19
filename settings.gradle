@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':time-badge'
 rootProject.name='Catatan Hutang'
